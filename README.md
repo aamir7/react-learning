@@ -1,6 +1,7 @@
 # react-learning
 
-A simple project to learn *React Native*
+A simple project to learn * React Native *
+
 Main goals:
 - How to setup
 - How it works
